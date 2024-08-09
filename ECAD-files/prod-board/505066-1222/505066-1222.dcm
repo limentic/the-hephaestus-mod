@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 505066-1222
+D SlimStack Board-to-Board Connector, 0.35mm Pitch, SSB RP Series, Receptacle, 0.60mm Mated Height, 2.00mm Mated Width,  Circuits, Armor Nail
+K
+F https://www.molex.com/pdm_docs/sd/5050661222_sd.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "505066-1222")(type "KiCad")(uri "${KIPRJMOD}/505066-1222/505066-1222.kicad_sym")(options "")(descr ""))
+  (lib (name "TF22-16S")(type "KiCad")(uri "${KIPRJMOD}/TF22-16S/TF22-16S-0_175SHW_800_.kicad_sym")(options "")(descr ""))
+)

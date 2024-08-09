@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MX_ALPS_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/MX_Alps_Hybrid.pretty")(options "")(descr ""))
+  (lib (name "505066-1222")(type "KiCad")(uri "${KIPRJMOD}/505066-1222")(options "")(descr ""))
+  (lib (name "TF22-16S")(type "KiCad")(uri "${KIPRJMOD}/TF22-16S")(options "")(descr ""))
+)
