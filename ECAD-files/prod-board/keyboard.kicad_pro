@@ -540,7 +540,7 @@
       "plot": "fabfiles/",
       "pos_files": "fabfiles/",
       "specctra_dsn": "",
-      "step": "../../../../Desktop/keyboard.step",
+      "step": "../../../../../Desktop/keyboard.step",
       "svg": "",
       "vrml": ""
     },

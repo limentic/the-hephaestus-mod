@@ -413,6 +413,17 @@
 			(pintype "passive")
 			(uuid "04561370-a4c4-4627-af8c-03231671014b")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -664,6 +675,17 @@
 			(net 25 "PIN17_MATRIX")
 			(pintype "passive")
 			(uuid "f7e81305-078f-492d-8a92-4c53ad6bbadc")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -917,6 +939,17 @@
 			(pintype "passive")
 			(uuid "45da42b5-ed43-4a40-a968-4f092e15e0ba")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -1168,6 +1201,17 @@
 			(net 33 "PIN25_MATRIX")
 			(pintype "passive")
 			(uuid "172ac047-0b8c-472f-86d0-c1d605d00223")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -1421,6 +1465,17 @@
 			(pintype "passive")
 			(uuid "58bd7935-9ff7-4258-8c5a-95a8ae8b455d")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -1672,6 +1727,17 @@
 			(net 31 "PIN23_MATRIX")
 			(pintype "passive")
 			(uuid "4f67818a-a987-4cb8-9f40-d559575a6a12")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-ISO-NoLED"
@@ -1992,6 +2058,17 @@
 			(net 19 "PIN9_MATRIX")
 			(pintype "passive")
 			(uuid "9729ba2b-2f98-45e2-a583-a41938f0569c")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz -1 0 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 90)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -2608,6 +2685,17 @@
 			(pintype "passive")
 			(uuid "10c8caa4-e67f-4922-a247-043fb64caca1")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -2859,6 +2947,17 @@
 			(net 29 "PIN21_MATRIX")
 			(pintype "passive")
 			(uuid "898b59ff-53ed-41e6-a2d0-d3a082a39617")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1.5U-NoLED"
@@ -3112,6 +3211,17 @@
 			(pintype "passive")
 			(uuid "de8d15ab-398d-4041-a1a8-354e113754b6")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1.25U-NoLED"
 		(layer "F.Cu")
@@ -3363,6 +3473,17 @@
 			(net 31 "PIN23_MATRIX")
 			(pintype "passive")
 			(uuid "391c2f0f-b3b3-4ef1-bd47-88ac6601084d")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -3616,6 +3737,17 @@
 			(pintype "passive")
 			(uuid "a38e06bc-d98c-4afc-a682-242f5192aeb0")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -3867,6 +3999,17 @@
 			(net 40 "PIN7_MATRIX")
 			(pintype "passive")
 			(uuid "66ff69a0-3e99-4415-9ebc-dfcb27c4a078")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -4120,6 +4263,17 @@
 			(pintype "passive")
 			(uuid "22f94ec4-3019-468f-a9b5-f937cdc31f26")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -4371,6 +4525,17 @@
 			(net 38 "PIN30_MATRIX")
 			(pintype "passive")
 			(uuid "022e1e14-8128-4394-8bd0-3a9aeaa87e0b")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -4624,6 +4789,17 @@
 			(pintype "passive")
 			(uuid "0c566df7-31d9-474f-b388-2a47484692dc")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -4875,6 +5051,17 @@
 			(net 33 "PIN25_MATRIX")
 			(pintype "passive")
 			(uuid "2a2fd086-8dcf-4e57-ba80-5ba7d0e4b8ca")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -5548,6 +5735,17 @@
 			(pintype "passive")
 			(uuid "c15ab41d-a5f9-4453-84d2-ca674c7dd0fd")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -5799,6 +5997,17 @@
 			(net 32 "PIN24_MATRIX")
 			(pintype "passive")
 			(uuid "5be37791-f275-482c-ac09-d406a7770f69")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -6173,6 +6382,17 @@
 			(pintype "passive")
 			(uuid "3628b2bc-a7ce-4403-bb15-5d2ecff8ea1e")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -6424,6 +6644,17 @@
 			(net 38 "PIN30_MATRIX")
 			(pintype "passive")
 			(uuid "eac09002-a13a-48fe-900b-72725bb87e32")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -6798,6 +7029,17 @@
 			(pintype "passive")
 			(uuid "19b0fcf6-fb54-44d2-bbcf-13a6dfcbe757")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -7049,6 +7291,17 @@
 			(net 29 "PIN21_MATRIX")
 			(pintype "passive")
 			(uuid "cb2a582c-56de-4046-bc8f-3c889ed16739")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -7302,6 +7555,17 @@
 			(pintype "passive")
 			(uuid "32345b50-b575-4305-b3e5-f4fb6924bb83")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -7553,6 +7817,17 @@
 			(net 25 "PIN17_MATRIX")
 			(pintype "passive")
 			(uuid "925dc6c8-9f40-46de-887b-41921d62d431")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -7806,6 +8081,17 @@
 			(pintype "passive")
 			(uuid "b8ca8893-c29f-41c9-bf5e-3cba95434f03")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -8058,6 +8344,17 @@
 			(pintype "passive")
 			(uuid "eb3d297c-a1bb-4d24-9c72-ae7dc7798634")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1.75U-NoLED"
 		(layer "F.Cu")
@@ -8309,6 +8606,17 @@
 			(net 20 "PIN11_MATRIX")
 			(pintype "passive")
 			(uuid "55c7145a-2c29-4c23-acd0-288263648839")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-2U-NoLED"
@@ -8590,6 +8898,17 @@
 			(pintype "passive")
 			(uuid "1353bc84-47b3-4878-88cd-9f8d9f8b0794")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-6.25U-NoLED"
 		(layer "F.Cu")
@@ -8870,6 +9189,17 @@
 			(pintype "passive")
 			(uuid "0af3fba4-2d75-4886-b8d1-33148e10c9cf")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1.5U-NoLED"
 		(layer "F.Cu")
@@ -9121,6 +9451,17 @@
 			(net 19 "PIN9_MATRIX")
 			(pintype "passive")
 			(uuid "5327eb20-4b8f-4dd4-8a85-4cbba4f98df7")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -9374,6 +9715,17 @@
 			(pintype "passive")
 			(uuid "1a928806-bdf5-4a96-93ac-84579eb9888c")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -9626,6 +9978,17 @@
 			(pintype "passive")
 			(uuid "16e04d48-8a2d-461d-af61-d4aaa84e96d5")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -9877,6 +10240,17 @@
 			(net 33 "PIN25_MATRIX")
 			(pintype "passive")
 			(uuid "70fecbf7-fdf2-4331-80c4-481229dee2f6")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -10251,6 +10625,17 @@
 			(pintype "passive")
 			(uuid "570e2338-0ad9-43fd-9d17-db90770642e4")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -10503,6 +10888,17 @@
 			(pintype "passive")
 			(uuid "a26c0b1c-b544-4a2b-868b-cf82fa6cbdba")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -10754,6 +11150,17 @@
 			(net 37 "PIN29_MATRIX")
 			(pintype "passive")
 			(uuid "ef2a6cb9-fb24-48d8-bd48-26330eccb986")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -11128,6 +11535,17 @@
 			(pintype "passive")
 			(uuid "de98e796-b190-41ec-b1c0-4df2b9aa5ebc")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -11379,6 +11797,17 @@
 			(net 17 "PIN3_MATRIX")
 			(pintype "passive")
 			(uuid "e6fbbb82-84b3-4f54-923a-0b6d23320964")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -11753,6 +12182,17 @@
 			(pintype "passive")
 			(uuid "145f9b12-47a1-446a-b719-67ae87f84f37")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -12004,6 +12444,17 @@
 			(net 37 "PIN29_MATRIX")
 			(pintype "passive")
 			(uuid "1493060f-615b-4651-85b3-c59ea2ef3680")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -12499,6 +12950,17 @@
 			(pintype "passive")
 			(uuid "72e1aff4-6628-44fb-9110-401d148bb7f6")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1.25U-NoLED"
 		(layer "F.Cu")
@@ -12750,6 +13212,17 @@
 			(net 31 "PIN23_MATRIX")
 			(pintype "passive")
 			(uuid "b26166f1-93cc-4ac6-84a0-74a9886c164c")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -13003,6 +13476,17 @@
 			(pintype "passive")
 			(uuid "c8d02cf9-d56b-441c-82d5-03478d6028cd")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -13254,6 +13738,17 @@
 			(net 36 "PIN28_MATRIX")
 			(pintype "passive")
 			(uuid "ecc635c2-6be7-4ea1-bcc7-df6cec82b101")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -13749,6 +14244,17 @@
 			(pintype "passive")
 			(uuid "dc4b125c-e85a-4fbf-b240-973d1c03d892")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -14000,6 +14506,17 @@
 			(net 33 "PIN25_MATRIX")
 			(pintype "passive")
 			(uuid "b04eebc1-ca51-4ca5-a3e9-ff5669a3764d")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -14374,6 +14891,17 @@
 			(pintype "passive")
 			(uuid "d778d3fa-dfc6-4575-b67e-ca1cc7c487ce")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -14625,6 +15153,17 @@
 			(net 25 "PIN17_MATRIX")
 			(pintype "passive")
 			(uuid "354d20dc-baac-4a3c-a9e8-5e1fe8b671ee")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -14878,6 +15417,17 @@
 			(pintype "passive")
 			(uuid "f5640e3f-fb16-4c12-9f4a-bbf6e6dfdbbc")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -15130,6 +15680,17 @@
 			(pintype "passive")
 			(uuid "28063e95-e5d9-4995-90c2-cd8d2444c0b1")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -15381,6 +15942,17 @@
 			(net 36 "PIN28_MATRIX")
 			(pintype "passive")
 			(uuid "319c08f2-4841-41b8-bf62-0c3039b71c13")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "LED_SMD:LED_0805_2012Metric"
@@ -15866,6 +16438,17 @@
 			(pintype "passive")
 			(uuid "f91a7d1c-8840-42f9-a8c2-0117f7ca864a")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
 		(layer "F.Cu")
@@ -16239,6 +16822,17 @@
 			(pintype "passive")
 			(uuid "054ea934-3de4-40a1-b13c-0d1f6fe45c54")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -16490,6 +17084,17 @@
 			(net 38 "PIN30_MATRIX")
 			(pintype "passive")
 			(uuid "81ca5534-f107-4e64-be72-0c4d964ca6ac")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -16743,6 +17348,17 @@
 			(pintype "passive")
 			(uuid "58c18458-de3c-4767-b1ce-f560991d7675")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -16994,6 +17610,17 @@
 			(net 38 "PIN30_MATRIX")
 			(pintype "passive")
 			(uuid "0c06a7fe-e0a1-48a4-857a-2c331f2ac260")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -17247,6 +17874,17 @@
 			(pintype "passive")
 			(uuid "f29831ce-0d5b-4a93-8c94-3dde3233654d")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -17499,6 +18137,17 @@
 			(pintype "passive")
 			(uuid "3cb80792-822f-4d23-888b-75425bbe2de2")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -17750,6 +18399,17 @@
 			(net 36 "PIN28_MATRIX")
 			(pintype "passive")
 			(uuid "7d0e4767-67cd-4faf-98fb-d08553f06369")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -18124,6 +18784,17 @@
 			(pintype "passive")
 			(uuid "6e07b98b-afd1-4d2e-bc3e-9904702b0646")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -18375,6 +19046,17 @@
 			(net 18 "PIN8_MATRIX")
 			(pintype "passive")
 			(uuid "bcdd3442-4507-49aa-9123-a2ade530ab5f")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -18628,6 +19310,17 @@
 			(pintype "passive")
 			(uuid "ad5d634d-7e1c-49c8-b8f1-3af134ba9236")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -18880,6 +19573,17 @@
 			(pintype "passive")
 			(uuid "efe2a372-b6b8-4b29-8909-df58eeedea91")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -19131,6 +19835,17 @@
 			(net 18 "PIN8_MATRIX")
 			(pintype "passive")
 			(uuid "32b17d6e-9822-418e-96e1-8706ded494fa")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -19505,6 +20220,17 @@
 			(pintype "passive")
 			(uuid "986ab3f6-c3c3-4cda-a3c7-9f3d71b78c79")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -19756,6 +20482,17 @@
 			(net 17 "PIN3_MATRIX")
 			(pintype "passive")
 			(uuid "f3509792-0b39-4281-8101-f930a3ec2a42")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -20009,6 +20746,17 @@
 			(pintype "passive")
 			(uuid "7b59daa6-757a-47bc-b1ea-350da2c9b009")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -20260,6 +21008,17 @@
 			(net 29 "PIN21_MATRIX")
 			(pintype "passive")
 			(uuid "5203d90a-038f-4122-b395-487566f18231")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -20513,6 +21272,17 @@
 			(pintype "passive")
 			(uuid "df2126ef-9de3-4233-b150-9626d80509e7")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -20765,6 +21535,17 @@
 			(pintype "passive")
 			(uuid "627b448d-9364-4a42-bd56-6a7109735499")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -21016,6 +21797,17 @@
 			(net 33 "PIN25_MATRIX")
 			(pintype "passive")
 			(uuid "6fbd2cfa-8535-4947-a7c3-9675ccf22e2c")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2_Pad_TopBottom"
@@ -21390,6 +22182,17 @@
 			(pintype "passive")
 			(uuid "f7fed040-19ef-494f-aeda-64486c00af8d")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -21641,6 +22444,17 @@
 			(net 18 "PIN8_MATRIX")
 			(pintype "passive")
 			(uuid "a41333ae-e106-4c43-b209-4452bf5c4120")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -21894,6 +22708,17 @@
 			(pintype "passive")
 			(uuid "af85068a-b8d6-40ac-ac28-6d9764843de6")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -22145,6 +22970,17 @@
 			(net 29 "PIN21_MATRIX")
 			(pintype "passive")
 			(uuid "03065871-62f0-4ee9-bf34-62bf5ec2e977")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
@@ -22398,6 +23234,17 @@
 			(pintype "passive")
 			(uuid "5dc3e634-2aba-401f-829c-9f817158b630")
 		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
+		)
 	)
 	(footprint "MX_ALPS_Hybrid:MX-1U-NoLED"
 		(layer "F.Cu")
@@ -22649,6 +23496,17 @@
 			(net 37 "PIN29_MATRIX")
 			(pintype "passive")
 			(uuid "0eadee85-8a99-4ac6-8cf8-08dfb511f2b3")
+		)
+		(model "${KIPRJMOD}/cherry-mx-switch/switch.step"
+			(offset
+				(xyz 0 -1 4.9)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
+			)
 		)
 	)
 	(footprint "Connector_FFC-FPC:Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal"
@@ -23878,6 +24736,17 @@
 			(pintype "passive")
 			(uuid "d4c6a275-431d-4cf5-8d90-868b1962d17f")
 		)
+		(model "${KIPRJMOD}/TF22-16S/TF22-16S-0.175SHW(800)_4800346000_3D_IGS.igs"
+			(offset
+				(xyz -0.22 1.8 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 180)
+			)
+		)
 	)
 	(footprint "Connector_Molex:Molex_PicoBlade_53261-0271_1x02-1MP_P1.25mm_Horizontal"
 		(layer "B.Cu")
@@ -24722,7 +25591,7 @@
 			(pintype "passive")
 			(uuid "7101b57c-fa75-495f-8d7a-adb6c3c562ea")
 		)
-		(model "${KIPRJMOD}/3dmodels/505066-1222.stp"
+		(model "${KIPRJMOD}/505066-1222/505066-1222.stp"
 			(offset
 				(xyz 0 0 0)
 			)
